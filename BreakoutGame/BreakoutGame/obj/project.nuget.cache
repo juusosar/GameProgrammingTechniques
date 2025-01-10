@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1JwQGJGcsnWgDdZ84CDO0wQ/BBJ1ysOsfLc5FZSFZ2xSzNzlVNr/uZAiQajfl4ebVCF0j+0DRt4nFnvW44QPaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juuso\\source\\repos\\BreakoutGame\\BreakoutGame\\BreakoutGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juuso\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\juuso\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

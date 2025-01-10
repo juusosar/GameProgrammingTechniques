@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/juuso/source/repos/Assignment/Content/gamefont.spritefont","C:/Users/juuso/source/repos/Assignment/Content/bin/DesktopGL/Content/gamefont.xnb","FontDescriptionProcessor","SpriteFontContent",2083,37919,0.9884746
+"C:/Users/juuso/source/repos/Assignment/Content/sword sound.wav","C:/Users/juuso/source/repos/Assignment/Content/bin/DesktopGL/Content/sword sound.xnb","SoundEffectProcessor","SoundEffectContent",95214,95141,1.6657546
+"C:/Users/juuso/source/repos/Assignment/Content/sword_hit.wav","C:/Users/juuso/source/repos/Assignment/Content/bin/DesktopGL/Content/sword_hit.xnb","SoundEffectProcessor","SoundEffectContent",182316,170337,0.7467508
+"C:/Users/juuso/source/repos/Assignment/Content/take_hit.wav","C:/Users/juuso/source/repos/Assignment/Content/bin/DesktopGL/Content/take_hit.xnb","SoundEffectProcessor","SoundEffectContent",80940,81001,0.7260073

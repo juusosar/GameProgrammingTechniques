@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/juuso/source/repos/GameMT2/Content/flack.wav</SourceFile>
+  <SourceTime>2006-01-08T11:07:48+11:00</SourceTime>
+  <DestFile>C:/Users/juuso/source/repos/GameMT2/Content/bin/DesktopGL/Content/flack.xnb</DestFile>
+  <DestTime>2023-04-20T15:31:31.5649433+10:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T21:44:56+10:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T21:44:56+10:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
